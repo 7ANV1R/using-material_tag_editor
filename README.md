@@ -1,6 +1,6 @@
 # Material tag editor example
 
-![Screenshot_1650950700](https://user-images.githubusercontent.com/35481593/165227777-405a08d9-4dd1-4f93-8413-4cd1a8e1d911.png)
+![image](https://user-images.githubusercontent.com/35481593/165227908-b8fcf899-87ac-4bff-aa72-a3c90b4dbf09.png)
 
 
 ## Getting Started
